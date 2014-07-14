@@ -1,6 +1,6 @@
 <div class="blog-image">
 <a id="blog-image" href="http://theaqua.im">
-    <img class="text-center" alt="Duy Thien" src="http://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2014/01/thien_tranduy-96x96.png">
+    <img class="text-center" alt="Duy Thien" src="http://icons.iconarchive.com/icons/mag1cwind0w/colorful-morning/256/CM-C-Pictures-2-icon.png">
 </a>
  <h2 class="text-center" >Here are some articles I've written:</h2> 
 
